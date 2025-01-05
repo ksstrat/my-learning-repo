@@ -8,7 +8,3 @@ node_modules/
 .github/
 cloudinary_python.txt
 password.txt
-css/
-        stream-one.html
-        stream-three.html
-        stream-two.html
